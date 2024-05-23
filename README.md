@@ -1,5 +1,6 @@
 # Pclub_Task_4
-My solution to the PS of NLP task
+My solution to the PS of NLP task.
+
 I first started out by importing all the libraries where I was getting an environment issue between anaconda venv and on my system so I opened a VS Code file through anaconda navigator and then worked in that.
 
 Throughout the coding preocess, when I wanted to run the file, I opened it Google Collab but I got an error IOPub data rate exceeded so I came back to VS Code and Ran the file and then it was running.
