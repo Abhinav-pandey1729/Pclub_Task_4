@@ -8,4 +8,4 @@ Throughout the coding preocess, when I wanted to run the file, I opened it Googl
 I had some difficulties while running the file because I was always getting the output as there are less than % paragraphs but when I introduced the top_indices parameter and used argsort it worked out well for me. I was also getting Value Errors and Key Error 2 which made me realise that I had not dropped the duplicate values in the file.
 
 
-I have attached my submission as a zip file which has to be run in the same folder as the xlsx files otherwise it will not run correctly. I have attched a screenshot of my model running as a jpg file in the repo itself.
+I have attached my submission as a zip file which has to be run in the same folder as the xlsx files otherwise it will not run correctly. I haven't been able to attach a screenshot fo my model because it says these files cannot be uploaded but I have shown a sample query in the pynb itself.
